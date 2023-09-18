@@ -1,0 +1,10 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#footer {
+position: relative;
+left: 0;
+bottom: 0;
+width: 90%;
+}
